@@ -46,6 +46,7 @@ const Navbar = () => {
           className="flex items-center gap-2 text-xl font-bold tracking-tight transition-all duration-300 hover:opacity-80"
         >
           <img 
+          
             src="/uploads/3f672efc-bd59-45dd-88f0-aa4de10c1f61.png" 
             alt="ToDo Logo" 
             className="h-8 w-auto" 
